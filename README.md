@@ -2,6 +2,7 @@
 
 ## Overview
 This project focuses on API testing for the Restful Booker application.
+https://restful-booker.herokuapp.com/apidoc/index.html
 
 ## Tools Used
 - Postman
